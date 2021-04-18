@@ -58,7 +58,7 @@ export const  styleTheme = ({
       marginTop :"3%",
       maxWidth:"700px",
       background:"#dddddd",
-      padding: "1% 2% 1% 2%",
+      padding: "1% 2% 2% 2%",
       display: "flex",
       flexDirection: "column",
       rowGap: "20px",
