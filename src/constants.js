@@ -6,12 +6,9 @@ export const urlBasePath = "https://weird-text-api-flask.herokuapp.com/"
 
 export const  styleTheme = ({
     pageWrapper: {
-
       background:"white",
       paddingTop: "0%",
-      paddingBottom: "5%",
       width: "100vw",
-      height: "100vh",
       overflow: "hidden",
       display: "flex",
       justifyContent: "center",
@@ -58,9 +55,10 @@ export const  styleTheme = ({
       boxShadow: "10px",
     },
     root: {
+      marginTop :"3%",
       maxWidth:"700px",
       background:"#dddddd",
-      padding: "5%",
+      padding: "1% 2% 1% 2%",
       display: "flex",
       flexDirection: "column",
       rowGap: "20px",
